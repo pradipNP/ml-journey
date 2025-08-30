@@ -1,7 +1,7 @@
 # 📌 NumPy Practice Repository
 
 ## Description
-This repository contains my daily practice files on Machine Learning, a core Python library for numerical computing. Each file represents exercises or experiments with different NumPy concepts.
+This repository contains my daily practice files on Machine Learning, a core Python library for numerical computing. Each file represents exercises or experiments with different Machine Learning Core concepts.
 
 ## Topics Covered
 - 01Array_List_diff.ipynb → Differences between arrays and lists  
