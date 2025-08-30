@@ -1,7 +1,7 @@
 # 📌 NumPy Practice Repository
 
 ## Description
-This repository contains my daily practice files on **NumPy**, a core Python library for numerical computing. Each file represents exercises or experiments with different NumPy concepts.
+This repository contains my daily practice files on Machine Learning, a core Python library for numerical computing. Each file represents exercises or experiments with different NumPy concepts.
 
 ## Topics Covered
 - 01Array_List_diff.ipynb → Differences between arrays and lists  
@@ -10,17 +10,19 @@ This repository contains my daily practice files on **NumPy**, a core Python lib
 - 04Array_functions.ipynb → Common NumPy functions  
 - 05Random_Array_Generation.ipynb → Generating random arrays  
 - 06DataTypes_Array.ipynb → Understanding NumPy data types
+- 07Arithmetic_Operation.ipynb → Performing Arithmetic O/P
 
 ## Folder Structure
 ``` bash
-numpy-essentials/
-│
-├─ 01Array_List_diff.ipynb
-├─ 02time_check.ipynb
-├─ 03Dimensions_Array.ipynb
-├─ 04Array_functions.ipynb
-├─ 05Random_Array_Generation.ipynb
-├─ 06DataTypes_Array.ipynb
+ml-journey/
+├─NumPy
+   ├─ 01Array_List_diff.ipynb
+   ├─ 02time_check.ipynb
+   ├─ 03Dimensions_Array.ipynb
+   ├─ 04Array_functions.ipynb
+   ├─ 05Random_Array_Generation.ipynb
+   ├─ 06DataTypes_Array.ipynb
+   ├─ 07Arithmetic_Operation.ipynb
 ├─ README.md
 ```
 
@@ -28,7 +30,7 @@ numpy-essentials/
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/pradipNP/<repo-name>.git
+   git clone https://github.com/pradipNP/ml-journey.git
 2. Open any .ipynb file in Jupyter Notebook or VS Code.
 
 3. Run the code cells to practice, modify, and experiment.
