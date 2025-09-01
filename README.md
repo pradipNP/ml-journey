@@ -12,7 +12,8 @@ This repository contains my daily practice files on Machine Learning, a core Pyt
 - 06DataTypes_Array.ipynb → Understanding NumPy data types
 - 07Arithmetic_Operation.ipynb → Performing Arithmetic O/P
 - 08Arithmetic_Functions.ipynb → Explore the functions of arithmetic operation
-- 09Shape_Reshape_Array.ipynb → Array's Shape Conversion 
+- 09Shape_Reshape_Array.ipynb → Array's Shape Conversion
+- broadcasting_array.png → Image of broadcasting details
 
 ## Folder Structure
 ``` bash
@@ -27,6 +28,7 @@ ml-journey/
    ├─ 07Arithmetic_Operation.ipynb
    ├─ 08Arithmetic_Functions.ipynb
    ├─ 09Shape_Reshape_Array.ipynb
+   ├─ broadcasting_array.png
 ├─ README.md
 ├─ .igitignore
 ```
