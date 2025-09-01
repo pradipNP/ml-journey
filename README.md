@@ -1,7 +1,7 @@
 # 📌 NumPy Practice Repository
 
 ## Description
-This repository contains my daily practice files on Machine Learning, a core Python library for numerical computing. Each file represents exercises or experiments with different Machine Learning Core concepts.
+This repository contains my daily practice files on Machine Learning, including NumPy with each core Python library for numerical computing. Each file represents exercises or experiments with different Machine Learning Core concepts.
 
 ## Topics Covered
 - 01Array_List_diff.ipynb → Differences between arrays and lists  
@@ -13,6 +13,8 @@ This repository contains my daily practice files on Machine Learning, a core Pyt
 - 07Arithmetic_Operation.ipynb → Performing Arithmetic O/P
 - 08Arithmetic_Functions.ipynb → Explore the functions of arithmetic operation
 - 09Shape_Reshape_Array.ipynb → Array's Shape Conversion
+- 10Broadcasting_inArray.ipynb → Broadcasting details
+- broadcasting_addition.png → Image of addition algorithm
 - broadcasting_array.png → Image of broadcasting details
 
 ## Folder Structure
@@ -28,6 +30,8 @@ ml-journey/
    ├─ 07Arithmetic_Operation.ipynb
    ├─ 08Arithmetic_Functions.ipynb
    ├─ 09Shape_Reshape_Array.ipynb
+   ├─ 10Broadcasting_inArray.ipynb
+   ├─ broadcasting_addition.png
    ├─ broadcasting_array.png
 ├─ README.md
 ├─ .igitignore
