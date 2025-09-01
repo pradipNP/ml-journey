@@ -11,6 +11,7 @@ This repository contains my daily practice files on Machine Learning, a core Pyt
 - 05Random_Array_Generation.ipynb → Generating random arrays  
 - 06DataTypes_Array.ipynb → Understanding NumPy data types
 - 07Arithmetic_Operation.ipynb → Performing Arithmetic O/P
+- 08Arithmetic_Functions.ipynb → Explore the functions of arithmetic operation
 
 ## Folder Structure
 ``` bash
@@ -23,6 +24,7 @@ ml-journey/
    ├─ 05Random_Array_Generation.ipynb
    ├─ 06DataTypes_Array.ipynb
    ├─ 07Arithmetic_Operation.ipynb
+   ├─ 08Arithmetic_Functions.ipynb
 ├─ README.md
 ```
 
