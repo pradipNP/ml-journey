@@ -15,6 +15,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 09Shape_Reshape_Array.ipynb → Array's Shape Conversion
 - 10Broadcasting_inArray.ipynb → Broadcasting details
 - 11Indexing_Slicing_Array.ipynb → Performing Indexing and Slicing of arrays
+- 12Iteration_Of_Array.ipynb → Iterating the Numpy array
 - Images
    - indexing.png
    - broadcasting_addition.png → Image of addition algorithm
@@ -39,6 +40,7 @@ ml-journey/
    ├─ 09Shape_Reshape_Array.ipynb
    ├─ 10Broadcasting_inArray.ipynb
    ├─ 11Indexing_Slicing_Array.ipynb
+   ├─ 12Iteration_Of_Array.ipynb
    
 ├─ README.md
 ├─ .igitignore
