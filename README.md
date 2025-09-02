@@ -16,9 +16,9 @@ This repository contains my daily practice files on Machine Learning, including 
 - 10Broadcasting_inArray.ipynb → Broadcasting details
 - 11Indexing_Slicing_Array.ipynb → Performing Indexing and Slicing of arrays
 - Images
+   - indexing.png
    - broadcasting_addition.png → Image of addition algorithm
    - broadcasting_array.png → Image of broadcasting details
-   - indexing.png
 
 ## Folder Structure
 ``` bash
