@@ -14,13 +14,20 @@ This repository contains my daily practice files on Machine Learning, including 
 - 08Arithmetic_Functions.ipynb → Explore the functions of arithmetic operation
 - 09Shape_Reshape_Array.ipynb → Array's Shape Conversion
 - 10Broadcasting_inArray.ipynb → Broadcasting details
-- broadcasting_addition.png → Image of addition algorithm
-- broadcasting_array.png → Image of broadcasting details
+- 11Indexing_Slicing_Array.ipynb → Performing Indexing and Slicing of arrays
+- Images
+   - broadcasting_addition.png → Image of addition algorithm
+   - broadcasting_array.png → Image of broadcasting details
+   - indexing.png
 
 ## Folder Structure
 ``` bash
 ml-journey/
 ├─NumPy
+   ├─ Images
+      ├─ Indexing.png
+      ├─ broadcasting_addition.png
+      ├─ broadcasting_array.png
    ├─ 01Array_List_diff.ipynb
    ├─ 02time_check.ipynb
    ├─ 03Dimensions_Array.ipynb
@@ -31,8 +38,8 @@ ml-journey/
    ├─ 08Arithmetic_Functions.ipynb
    ├─ 09Shape_Reshape_Array.ipynb
    ├─ 10Broadcasting_inArray.ipynb
-   ├─ broadcasting_addition.png
-   ├─ broadcasting_array.png
+   ├─ 11Indexing_Slicing_Array.ipynb
+   
 ├─ README.md
 ├─ .igitignore
 ```
