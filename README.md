@@ -16,10 +16,12 @@ This repository contains my daily practice files on Machine Learning, including 
 - 10Broadcasting_inArray.ipynb → Broadcasting details
 - 11Indexing_Slicing_Array.ipynb → Performing Indexing and Slicing of arrays
 - 12Iteration_Of_Array.ipynb → Iterating the Numpy array
+- 13Copy&View_Array.ipynb → Copy and View of arrays
 - Images
-   - indexing.png
+   - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
    - broadcasting_array.png → Image of broadcasting details
+   - copy_view_difference.png → Image of difference between copy and array
 
 ## Folder Structure
 ``` bash
