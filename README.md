@@ -31,6 +31,7 @@ ml-journey/
       ├─ Indexing.png
       ├─ broadcasting_addition.png
       ├─ broadcasting_array.png
+      ├─ copy_view_difference.png
    ├─ 01Array_List_diff.ipynb
    ├─ 02time_check.ipynb
    ├─ 03Dimensions_Array.ipynb
@@ -43,6 +44,7 @@ ml-journey/
    ├─ 10Broadcasting_inArray.ipynb
    ├─ 11Indexing_Slicing_Array.ipynb
    ├─ 12Iteration_Of_Array.ipynb
+   ├─ 13Copy&View_Array.ipynb
    
 ├─ README.md
 ├─ .igitignore
