@@ -17,6 +17,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 11Indexing_Slicing_Array.ipynb → Performing Indexing and Slicing of arrays
 - 12Iteration_Of_Array.ipynb → Iterating the Numpy array
 - 13Copy&View_Array.ipynb → Copy and View of arrays
+- 14Join_Split_Array.ipynb → Join and Split of arrays
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -45,6 +46,7 @@ ml-journey/
    ├─ 11Indexing_Slicing_Array.ipynb
    ├─ 12Iteration_Of_Array.ipynb
    ├─ 13Copy&View_Array.ipynb
+   ├─ 14Join_Split_Array.ipynb
    
 ├─ README.md
 ├─ .igitignore
