@@ -19,6 +19,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 13Copy_n_View_Array.ipynb → Copy and View of arrays
 - 14Join_Split_Array.ipynb → Join and Split of arrays
 - 15Functions_Search_Sort_Filter.ipynb → Search, Search Sort, Sort, Filter of arrays
+- 16Arithmetic_functions.ipynb → Shuggle, Unique, Resize, Flatten, Ravel
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -49,6 +50,7 @@ ml-journey/
    ├─ 13Copy_n_View_Array.ipynb
    ├─ 14Join_Split_Array.ipynb
    ├─ 15Functions_Search_Sort_Filter.ipynb
+   ├─ 16Arithmetic_functions.ipynb
    
 ├─ README.md
 ├─ .igitignore
