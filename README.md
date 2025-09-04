@@ -21,11 +21,13 @@ This repository contains my daily practice files on Machine Learning, including 
 - 15Functions_Search_Sort_Filter.ipynb → Search, Search Sort, Sort, Filter of arrays
 - 16Arithmetic_functions.ipynb → Uses of Shuggle, Unique, Resize, Flatten, Ravel
 - 17Delete_Insert_Functions.ipynb → Insert and Delete the elements in array
+- 18Matrix_Array_Difference.ipynb → Difference between matrix and array
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
    - broadcasting_array.png → Image of broadcasting details
    - copy_view_difference.png → Image of difference between copy and array
+   - matrix_array.png → Image of multiplication process in matrix and array
 
 ## Folder Structure
 ``` bash
@@ -36,6 +38,7 @@ ml-journey/
       ├─ broadcasting_addition.png
       ├─ broadcasting_array.png
       ├─ copy_view_difference.png
+      ├─ matrix_array.png
    ├─ 01Array_List_diff.ipynb
    ├─ 02time_check.ipynb
    ├─ 03Dimensions_Array.ipynb
@@ -53,6 +56,7 @@ ml-journey/
    ├─ 15Functions_Search_Sort_Filter.ipynb
    ├─ 16Arithmetic_functions.ipynb
    ├─ 17Delete_Insert_Functions.ipynb
+   ├─ 18Matrix_Array_Difference.ipynb
 ├─ README.md
 ├─ .igitignore
 ```
