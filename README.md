@@ -22,12 +22,18 @@ This repository contains my daily practice files on Machine Learning, including 
 - 16Arithmetic_functions.ipynb → Uses of Shuggle, Unique, Resize, Flatten, Ravel
 - 17Delete_Insert_Functions.ipynb → Insert and Delete the elements in array
 - 18Matrix_Array_Difference.ipynb → Difference between matrix and array
+- 19Matrix_Functions.ipynb → Functions of matrix
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
    - broadcasting_array.png → Image of broadcasting details
    - copy_view_difference.png → Image of difference between copy and array
+   - determinate_matrix.png → Image of deteminate of a matrix
+   - inverse_matrix.png → Image of Inverse of a matrix
    - matrix_array.png → Image of multiplication process in matrix and array
+   - power_matrix.png → Image of Power of a matrix
+   - swapaxes_matrix.png → Image of swapaxes of a matrix
+   - transpose_matrix.png → Image of transpose of a matrix
 
 ## Folder Structure
 ``` bash
@@ -38,7 +44,12 @@ ml-journey/
       ├─ broadcasting_addition.png
       ├─ broadcasting_array.png
       ├─ copy_view_difference.png
+      ├─ determinate_matrix.png
+      ├─ inverse_matrix.png
       ├─ matrix_array.png
+      ├─ power_matrix.png
+      ├─ swapaxes_matrix.png
+      ├─ transpose_matrix.png
    ├─ 01Array_List_diff.ipynb
    ├─ 02time_check.ipynb
    ├─ 03Dimensions_Array.ipynb
@@ -57,6 +68,7 @@ ml-journey/
    ├─ 16Arithmetic_functions.ipynb
    ├─ 17Delete_Insert_Functions.ipynb
    ├─ 18Matrix_Array_Difference.ipynb
+   ├─ 19Matrix_Functions.ipynb
 ├─ README.md
 ├─ .igitignore
 ```
