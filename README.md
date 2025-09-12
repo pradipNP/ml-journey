@@ -1,7 +1,7 @@
-# 📌 NumPy Practice Repository
+# 📌 Machine Learning Practice Repository
 
 ## Description
-This repository contains my daily practice files on Machine Learning, including NumPy with each core Python library for numerical computing. Each file represents exercises or experiments with different Machine Learning Core concepts.
+This repository contains my daily practice files on Machine Learning, including NumPy, Pandas, with each core Python library for numerical computing. Each file represents exercises or experiments with different Machine Learning Core concepts.
 
 ## Topics Covered
 - 01Array_List_diff.ipynb → Differences between arrays and lists  
@@ -23,6 +23,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 17Delete_Insert_Functions.ipynb → Insert and Delete the elements in array
 - 18Matrix_Array_Difference.ipynb → Difference between matrix and array
 - 19Matrix_Functions.ipynb → Functions of matrix
+- 01DataStructure_Pandas.ipynb → Series data structure of pandas
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -69,6 +70,8 @@ ml-journey/
    ├─ 17Delete_Insert_Functions.ipynb
    ├─ 18Matrix_Array_Difference.ipynb
    ├─ 19Matrix_Functions.ipynb
+├─ Pandas
+   ├─ 01DataStructure_Pandas.ipynb
 ├─ README.md
 ├─ .igitignore
 ```
