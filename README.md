@@ -24,6 +24,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 18Matrix_Array_Difference.ipynb → Difference between matrix and array
 - 19Matrix_Functions.ipynb → Functions of matrix
 - 01DataStructure_Pandas.ipynb → Series data structure of pandas
+- 02DataStructure_Pandas.ipynb → DataFrame data structure of pandas
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -72,6 +73,7 @@ ml-journey/
    ├─ 19Matrix_Functions.ipynb
 ├─ Pandas
    ├─ 01DataStructure_Pandas.ipynb
+   ├─ o2DataStructure_Pandas.ipynb
 ├─ README.md
 ├─ .igitignore
 ```
