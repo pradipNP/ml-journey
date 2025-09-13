@@ -1,0 +1,15 @@
+Generations,Birth_Years,Population_World,Key_Characteristics,Major_Tech_Adoption
+M,1900-1915,100000000,"Early modernists, traditional",None/early industrial tech
+N,1916-1930,150000000,"World war generation, disciplined","Radio, cinema"
+O,1931-1945,200000000,"Silent generation, resilient","Television, early computers"
+P,1946-1964,1200000000,"Baby Boomers, optimistic, work-focused","TV, telephone, cars"
+Q,1965-1975,1500000000,"Generation Jones, skeptical, competitive","Early computers, video games"
+R,1976-1985,1800000000,"Generation X, independent, adaptable","Personal computers, mobile phones"
+S,1986-1990,1900000000,"Xennials, transitional tech users","Internet, early smartphones"
+T,1991-1995,2000000000,"Millennials, tech-savvy, collaborative","Smartphones, social media"
+U,1996-2000,2100000000,"Late Millennials, socially aware","Streaming platforms, social media"
+V,2001-2005,2200000000,"Generation Z, digital natives, entrepreneurial","AI, social media, smartphones"
+W,2006-2010,2300000000,"Tech-forward, socially conscious","AI, VR/AR, social media"
+X,2011-2015,2400000000,"AI natives, globally connected","Metaverse, AI, IoT"
+Y,2016-2020,2500000000,"Post-pandemic generation, conscious","Advanced tech, digital learning"
+Z,2021-2025,2600000000,"Next-gen, emerging tech adopters","AI, robotics, immersive tech"
