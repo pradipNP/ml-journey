@@ -28,10 +28,12 @@ This repository contains my daily practice files on Machine Learning, including 
 - 03Arithmetic_Operaions.ipynb → Arithmetic operations in pandas
 - 04Delete_Insert_Data.ipynb → Delete and Insert the Data in DataFrame
 - 05Write_CSV_file.ipynb → How to write a csv file in Pandas
+- 06ReadCSV_Parameter.ipynb → Parameters of reading csv file
 - CSV_files
    - 5Test_new.csv → file created in 5th file of pandas
    - 5Test_new_HeaderChange.csv → file created in 5th file of pandas
    - 5Test_new_Noindex.csv → file created in 5th file of pandas
+   - 6Generations_M_to_Z.csv → file read in 6th no. of code of pandas
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -83,11 +85,13 @@ ml-journey/
       ├─ 5Test_new.csv
       ├─ 5Test_new_HeaderChange.csv
       ├─ 5Test_new_Noindex.csv
+      ├─ 6Generations_M_to_Z.csv
    ├─ 01DataStructure_Pandas.ipynb
    ├─ 02DataStructure_Pandas.ipynb
    ├─ 03Arithmetic_Operations.ipynb
    ├─ 04Delete_Insert_Data.ipynb
    ├─ 05Write_CSV_file.ipynb
+   ├─ 06ReadCSV_Parameter.ipynb
 ├─ .igitignore
 ├─ README.md
 ```
@@ -100,3 +104,13 @@ ml-journey/
 2. Open any .ipynb file in Jupyter Notebook or VS Code.
 
 3. Run the code cells to practice, modify, and experiment.
+
+
+## 📊 Dataset Used
+
+6Generations_M_to_Z.csv
+ — used in the Pandas notebooks for CSV reading & manipulation.
+
+You can also download the original dataset from Kaggle here:
+👉 [6Generations_M_to_Z.csv](https://www.kaggle.com/datasets/pradeepkumarkohar/generation-detail)
+
