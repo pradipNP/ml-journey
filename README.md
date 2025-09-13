@@ -27,6 +27,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 02DataStructure_Pandas.ipynb → DataFrame data structure of pandas
 - 03Arithmetic_Operaions.ipynb → Arithmetic operations in pandas
 - 04Delete_Insert_Data.ipynb → Delete and Insert the Data in DataFrame
+- 05Write_CSV_file.ipynb → How to write a csv file in Pandas
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -78,6 +79,7 @@ ml-journey/
    ├─ 02DataStructure_Pandas.ipynb
    ├─ 03Arithmetic_Operations.ipynb
    ├─ 04Delete_Insert_Data.ipynb
+   ├─ 05Write_CSV_file.ipynb
 ├─ README.md
 ├─ .igitignore
 ```
