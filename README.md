@@ -28,6 +28,10 @@ This repository contains my daily practice files on Machine Learning, including 
 - 03Arithmetic_Operaions.ipynb → Arithmetic operations in pandas
 - 04Delete_Insert_Data.ipynb → Delete and Insert the Data in DataFrame
 - 05Write_CSV_file.ipynb → How to write a csv file in Pandas
+- CSV_files
+   - 5Test_new.csv → file created in 5th file of pandas
+   - 5Test_new_HeaderChange.csv → file created in 5th file of pandas
+   - 5Test_new_Noindex.csv → file created in 5th file of pandas
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -75,13 +79,17 @@ ml-journey/
    ├─ 18Matrix_Array_Difference.ipynb
    ├─ 19Matrix_Functions.ipynb
 ├─ Pandas
+   ├─ CSV_files
+      ├─ 5Test_new.csv
+      ├─ 5Test_new_HeaderChange.csv
+      ├─ 5Test_new_Noindex.csv
    ├─ 01DataStructure_Pandas.ipynb
    ├─ 02DataStructure_Pandas.ipynb
    ├─ 03Arithmetic_Operations.ipynb
    ├─ 04Delete_Insert_Data.ipynb
    ├─ 05Write_CSV_file.ipynb
-├─ README.md
 ├─ .igitignore
+├─ README.md
 ```
 
 
