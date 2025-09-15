@@ -29,6 +29,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 04Delete_Insert_Data.ipynb → Delete and Insert the Data in DataFrame
 - 05Write_CSV_file.ipynb → How to write a csv file in Pandas
 - 06ReadCSV_Parameter.ipynb → Parameters of reading csv file
+- 07Functions_Pandas.ipynb → Functions of pandas
 - CSV_files
    - 5Test_new.csv → file created in 5th file of pandas
    - 5Test_new_HeaderChange.csv → file created in 5th file of pandas
@@ -92,6 +93,7 @@ ml-journey/
    ├─ 04Delete_Insert_Data.ipynb
    ├─ 05Write_CSV_file.ipynb
    ├─ 06ReadCSV_Parameter.ipynb
+   ├─ 07Functions_Pandas.ipynb
 ├─ .igitignore
 ├─ README.md
 ```
