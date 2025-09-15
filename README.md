@@ -114,14 +114,12 @@ ml-journey/
 
 ## 📊 Dataset Used
 
-6Generations_M_to_Z.csv
- — used in the Pandas notebooks for CSV reading & manipulation.
+6Generations_M_to_Z.csv — used in the Pandas notebooks for CSV reading & manipulation.
 
 You can also download the original dataset from Kaggle here:
 👉 [6Generations_M_to_Z.csv](https://www.kaggle.com/datasets/pradeepkumarkohar/generation-detail)
 
-8Worldwide_Protests.csv  
-— created for practicing missing data handling (dropna, fillna) and exploratory analysis.  
+8Worldwide_Protests.csv — created for practicing missing data handling (dropna, fillna) and exploratory analysis.  
 
 You can also download the original dataset from Kaggle here:  
 👉 [8Worldwide_Protests.csv](https://www.kaggle.com/datasets/pradeepkumarkohar/global-protests-dataset-19702025)  
