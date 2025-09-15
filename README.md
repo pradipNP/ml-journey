@@ -30,6 +30,7 @@ This repository contains my daily practice files on Machine Learning, including 
 - 05Write_CSV_file.ipynb → How to write a csv file in Pandas
 - 06ReadCSV_Parameter.ipynb → Parameters of reading csv file
 - 07Functions_Pandas.ipynb → Functions of pandas
+- 08Handling_Missing_Data.ipynb → Using dropna & fillna to handle data
 - CSV_files
    - 5Test_new.csv → file created in 5th file of pandas
    - 5Test_new_HeaderChange.csv → file created in 5th file of pandas
@@ -94,6 +95,7 @@ ml-journey/
    ├─ 05Write_CSV_file.ipynb
    ├─ 06ReadCSV_Parameter.ipynb
    ├─ 07Functions_Pandas.ipynb
+   ├─ 08Handling_Missing_Data.ipynb
 ├─ .igitignore
 ├─ README.md
 ```
