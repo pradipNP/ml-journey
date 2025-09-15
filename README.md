@@ -36,6 +36,7 @@ This repository contains my daily practice files on Machine Learning, including 
    - 5Test_new_HeaderChange.csv → file created in 5th file of pandas
    - 5Test_new_Noindex.csv → file created in 5th file of pandas
    - 6Generations_M_to_Z.csv → file read in 6th no. of code of pandas
+   - 8Worldwide_Protests.csv → file used in the 8th no. of code of pandas
 - Images
    - indexing.png → Image of Indexing in array
    - broadcasting_addition.png → Image of addition algorithm
@@ -88,6 +89,7 @@ ml-journey/
       ├─ 5Test_new_HeaderChange.csv
       ├─ 5Test_new_Noindex.csv
       ├─ 6Generations_M_to_Z.csv
+      ├─ 8Worldwide_Protests.csv
    ├─ 01DataStructure_Pandas.ipynb
    ├─ 02DataStructure_Pandas.ipynb
    ├─ 03Arithmetic_Operations.ipynb
@@ -117,4 +119,10 @@ ml-journey/
 
 You can also download the original dataset from Kaggle here:
 👉 [6Generations_M_to_Z.csv](https://www.kaggle.com/datasets/pradeepkumarkohar/generation-detail)
+
+8Worldwide_Protests.csv  
+— created for practicing missing data handling (dropna, fillna) and exploratory analysis.  
+
+You can also download the original dataset from Kaggle here:  
+👉 [8Worldwide_Protests.csv](https://www.kaggle.com/datasets/pradeepkumarkohar/global-protests-dataset-19702025)  
 
