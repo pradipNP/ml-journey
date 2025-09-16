@@ -33,7 +33,8 @@ This repository contains my daily practice files on Machine Learning, including 
 - 08Handling_Missing_Data.ipynb → Using dropna & fillna to handle data
 - 09Replace_Interpolate_Handling.ipynb → Using replace and interpolate method to handle the missing data
 - 10Merging_Concat_Dataframe.ipynb → Merge and concate two dataframes in pandas
-- 11Groupby_Method.ipynb → To create group of the same name of data  
+- 11Groupby_Method.ipynb → To create group of the same name of data
+- 12Join_Append_Dataframe.ipynb → Join and append the dataframes
 - CSV_files
    - 5Test_new.csv → file created in 5th file of pandas
    - 5Test_new_HeaderChange.csv → file created in 5th file of pandas
@@ -104,6 +105,7 @@ ml-journey/
    ├─ 09Replace_Interpolate_Handling.ipynb
    ├─ 10Merging_Concat_Dataframe.ipynb
    ├─ 11Groupby_Method.ipynb
+   ├─ 12Join_Append_Dataframe.ipynb
 ├─ .igitignore
 ├─ README.md
 ```
